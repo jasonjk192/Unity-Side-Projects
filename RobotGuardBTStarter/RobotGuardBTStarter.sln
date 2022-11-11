@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotGuardBTStarter", "RobotGuardBTStarter.csproj", "{5B47F059-C6BD-A59C-2E04-D7432920017F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotGuardBTStarter.Editor", "RobotGuardBTStarter.Editor.csproj", "{EABC6EC3-3E55-DB7E-D06D-B205DAEC6E0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B47F059-C6BD-A59C-2E04-D7432920017F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B47F059-C6BD-A59C-2E04-D7432920017F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B47F059-C6BD-A59C-2E04-D7432920017F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B47F059-C6BD-A59C-2E04-D7432920017F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EABC6EC3-3E55-DB7E-D06D-B205DAEC6E0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EABC6EC3-3E55-DB7E-D06D-B205DAEC6E0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EABC6EC3-3E55-DB7E-D06D-B205DAEC6E0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EABC6EC3-3E55-DB7E-D06D-B205DAEC6E0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
