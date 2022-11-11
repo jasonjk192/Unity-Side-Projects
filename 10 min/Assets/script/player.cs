@@ -11,13 +11,21 @@ public class player : MonoBehaviour {
         horizontal = -.4f;
         transform.RotateAround(Vector3.zero, Vector3.forward, -movespeed * Time.fixedDeltaTime * horizontal);
     }
-    public void RigthClick()
+    public void RightClick()
     {
         horizontal = .4f;
         transform.RotateAround(Vector3.zero, Vector3.forward, -movespeed * Time.fixedDeltaTime * horizontal);
     }
     private void FixedUpdate()
     {
-        
+        if (Input.GetMouseButton(0))
+            LeftClick();
+        else if (Input.GetMouseButton(1))
+            RightClick();
+    }
+    void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Line")
+            Destroy(gameObject);
     }
 }

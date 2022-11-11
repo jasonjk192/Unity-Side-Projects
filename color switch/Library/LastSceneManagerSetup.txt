@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/Bhagawati/Desktop/unity2D/Color-Switch-Replica-master/Color-Switch-Replica-master/Color
-    Switch Replica/Assets/Main.unity
+- path: Assets/scenes/main.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0

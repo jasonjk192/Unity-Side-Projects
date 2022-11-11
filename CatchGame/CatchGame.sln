@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{8AEBEE42-E1C1-162D-A997-210C96865F77}") = "CatchGame", "Assembly-CSharp.csproj", "{92EC8BD2-2A11-FC4D-942E-33BFFCC9BF16}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{92EC8BD2-2A11-FC4D-942E-33BFFCC9BF16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

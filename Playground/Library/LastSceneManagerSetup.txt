@@ -1,4 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Football/Football.unity
+- path: Assets/Scenes/Roguelike/Roguelike.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
