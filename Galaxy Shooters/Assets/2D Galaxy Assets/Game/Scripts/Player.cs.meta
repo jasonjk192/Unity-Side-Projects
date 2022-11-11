@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d75b047f5e065384ba2c35a6dc5244b3
+timeCreated: 1532612664
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _laserPrefab: {fileID: 1740614772368858, guid: b1fb40ea10c69144f85c748f8b24f396,
+      type: 2}
+  - _tripleShotPrefab: {fileID: 1188648169643702, guid: 018811ad9dfa86249a825971e29d51c6,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

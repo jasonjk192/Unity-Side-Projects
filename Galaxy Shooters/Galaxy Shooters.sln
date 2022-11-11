@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy Shooters", "Galaxy Shooters.csproj", "{D4DD8479-A995-1B39-078D-EF7F7089D3D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy Shooters.Editor", "Galaxy Shooters.Editor.csproj", "{C151314E-A3E7-2304-5DE0-93381265D128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DD8479-A995-1B39-078D-EF7F7089D3D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4DD8479-A995-1B39-078D-EF7F7089D3D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4DD8479-A995-1B39-078D-EF7F7089D3D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4DD8479-A995-1B39-078D-EF7F7089D3D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C151314E-A3E7-2304-5DE0-93381265D128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C151314E-A3E7-2304-5DE0-93381265D128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C151314E-A3E7-2304-5DE0-93381265D128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C151314E-A3E7-2304-5DE0-93381265D128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
